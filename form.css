@@ -1,0 +1,34 @@
+body
+{
+	display: flex;
+	justify-content: flex-start;
+	background-color: #CC9F9F;
+	font-family: 'Trebuchet MS',Arial,sans-serif;
+	color: #181818;
+
+}
+
+#envoie_msg
+{
+	background: url('fond_jaune.png'); 
+	margin: 20px;
+	border-radius: 20px;
+	padding: 15px;
+	width: 40%;
+}
+
+#messages
+{
+	background: url('fond_jaune.png');
+	margin: 20px;
+	border-radius: 20px;
+	padding: 15px;
+	width: 60%;
+}
+
+#bouton
+{
+	margin-top: 25px;
+	display: flex;
+	justify-content: center;
+}
